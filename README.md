@@ -2,7 +2,7 @@
 
 A round management library for Roblox. Cycle handles the full loop - intermission, map voting, team assignment, round timing, and win conditions - so your game logic only has to care about what makes your game unique.
 
-Built to be generic. Works for any game mode.
+Built to be generic. Works for any game.
 
 ---
 
